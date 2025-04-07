@@ -1,1 +1,3 @@
-![alt text](https://github.com/ShriIraCatalog/resources-one/blob/master/resource/vjo5rnbgfg/images/desktop.png)
+![alt text](https://raw.githubusercontent.com/ShriIraCatalog/resources-one/refs/heads/master/resource/vjo5rnbgfg/images/desktop.png)
+
+<!-- https://raw.githubusercontent.com/ShriIraCatalog/resources-one/refs/heads/master/courses/introduction-to-web-development/images/thumbnail.jpg -->
