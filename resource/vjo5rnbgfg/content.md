@@ -1,1 +1,1 @@
-![alt text](images/desktop.png)
+![alt text](https://github.com/ShriIraCatalog/resources-one/blob/master/resource/vjo5rnbgfg/images/desktop.png)
